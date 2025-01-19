@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "RecentFilter",
+    "version": "1.0",
+    "description": "RecentFilter permet d'afficher un filtre supplémentaire sur Google, pour voir les résultats moins d'1h à moins de 60s..",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+                   "matches": [
+                "*://*.google.com/search?q=*",
+                "*://*.google.fr/search?q=*",
+                "*://*.google.co.uk/search?q=*",
+                "*://*.google.ca/search?q=*",
+                "*://*.google.de/search?q=*",
+                "*://*.google.it/search?q=*",
+                "*://*.google.es/search?q=*",
+                "*://*.google.com.au/search?q=*",
+                "*://*.google.nl/search?q=*",
+                "*://*.google.co.in/search?q=*"
+            ],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
