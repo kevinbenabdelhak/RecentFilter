@@ -9,7 +9,7 @@ menuHeader.addEventListener('click', function() {
   const newMenuItem1 = document.createElement('g-menu-item');
   newMenuItem1.setAttribute('jsname', 'NNJLud');
   newMenuItem1.setAttribute('jscontroller', 'CnSW2d');
-  newMenuItem1.setAttribute('class', 'EpPYLd GZnQqe');
+  newMenuItem1.setAttribute('class', 'EpPYLd Zt0a5e');
   newMenuItem1.setAttribute('role', 'none');
   newMenuItem1.setAttribute('data-short-label', '');
   
@@ -30,15 +30,15 @@ menuHeader.addEventListener('click', function() {
 
   const newMenuItems = [
     {
-      label: 'Il y a moins de 30 minutes',
+      label: 'Moins de 30 minutes',
       duration: 'qdr:n30'
     },
     {
-      label: 'Il y a moins de 10 minutes',
+      label: 'Moins de 10 minutes',
       duration: 'qdr:n10'
     },
     {
-      label: 'Il y a moins de 5 minutes',
+      label: 'Moins de 5 minutes',
       duration: 'qdr:n5'
     }
    
@@ -48,7 +48,7 @@ menuHeader.addEventListener('click', function() {
     const newMenuItem = document.createElement('g-menu-item');
     newMenuItem.setAttribute('jsname', 'NNJLud');
     newMenuItem.setAttribute('jscontroller', 'CnSW2d');
-    newMenuItem.setAttribute('class', 'EpPYLd GZnQqe');
+    newMenuItem.setAttribute('class', 'EpPYLd Zt0a5e');
     newMenuItem.setAttribute('role', 'none');
     newMenuItem.setAttribute('data-short-label', '');
     

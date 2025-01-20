@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "RecentFilter",
-    "version": "1.0",
+    "version": "1.1",
     "description": "RecentFilter permet d'afficher un filtre supplémentaire sur Google, pour voir les résultats moins d'1h à moins de 60s..",
     "permissions": ["activeTab"],
     "content_scripts": [
