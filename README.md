@@ -23,3 +23,7 @@ Avec l'afflux constant d'informations sur Internet, il peut être difficile de t
 1. Téléchargez l'extension chrome depuis cette page : https://chromewebstore.google.com/detail/recentfilter/lplakafegcojohpamngdkfhjpbkkkfei
 2. Suivez les instructions d'installation.
 3. Une fois installée, utilisez les filtres de temps directement dans vos recherches sur Google.
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
